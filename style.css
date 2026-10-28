@@ -9,3 +9,7 @@ body {
 
 h1 { margin-bottom: 0; }
 a { color: #b5442b; }
+
+nav { display: flex; gap: 1.5rem; }
+nav a { text-decoration: none; text-transform: uppercase; }
+nav a:hover { text-decoration: underline; }
